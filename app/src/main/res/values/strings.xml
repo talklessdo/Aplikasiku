@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daud App</string>
+    <string name="name">Nama</string>
+    <string name="address">Alamat</string>
+    <string name="date">TTL</string>
+    <string name="mail">Email</string>
+    <string name="hp">No. HP</string>
+</resources>
