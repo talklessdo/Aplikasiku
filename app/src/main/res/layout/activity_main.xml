@@ -12,7 +12,7 @@
         android:id="@+id/bio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BIODATA"
+        android:text="BIODATA PENGHUNI NERAKA"
         android:textSize="30dp"
         android:layout_marginBottom="70dp"
         android:textColor="@color/black"
@@ -177,16 +177,17 @@
         android:layout_toRightOf="@id/titik"
         android:width="400px"/>
 
+
     <Button
         android:id="@+id/btn_pindah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/id_hape"
         android:layout_centerHorizontal="true"
+        android:backgroundTint="@android:color/holo_red_dark"
         android:text="submit"
         android:textColor="@color/black"
-        android:backgroundTint="@android:color/holo_blue_dark"
-        android:textSize="20sp"/>
+        android:textSize="20sp" />
 
 </RelativeLayout>
 
