@@ -132,7 +132,7 @@
         android:layout_height="wrap_content"
         android:text=":"
         android:textSize="25dp"
-        android:textColor="@color/black"
+        android:textColor="@color/black"<cobacobacoabcobacobacobacobadoang>
         android:layout_below="@id/id_tgl"
         android:layout_toRightOf="@id/id_nama"/>
 
@@ -190,7 +190,3 @@
 
 </RelativeLayout>
 
-
-
-
-<cobacobacoabcobacobacobacobadoang>
